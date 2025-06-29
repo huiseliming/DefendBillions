@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "dll",
+      "exe": "${workspaceRoot}/Godot_v4.4-stable_win64.exe",
+      "args": [
+        "-e",
+        "--path",
+        "${workspaceRoot}/gdp",
+        "--verbose"
+      ],
+      "cwd": "${workspaceRoot}",
+      "project": "CMakeLists.txt",
+      "projectTarget": "libDefendBillions_debug.dll (D:\\DefendBillions\\gdp\\bin\\libDefendBillions_debug.dll)",
+      "name": "libDefendBillions_debug.dll (D:\\DefendBillions\\gdp\\bin\\libDefendBillions_debug.dll)"
+    }
+  ]
+}

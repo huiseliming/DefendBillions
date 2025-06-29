@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfqcpkrh52kh"]
+
+[ext_resource type="Script" uid="uid://dwllx6gi4hi8u" path="res://flow_field_pathfinding_map_test.gd" id="1_ig7tw"]
+
+[node name="FlowFieldPathfindingMap" type="FlowFieldPathfindingMap"]
+script = ExtResource("1_ig7tw")

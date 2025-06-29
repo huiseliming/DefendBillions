@@ -1,0 +1,20 @@
+# clangd ignores
+.cache/**
+compile_commands.json
+
+# godot
+Godot_v4.4-stable*
+gdp/tmp/**
+gdp/bin/**
+!gdp/bin/*.gdextension
+
+# visual studio
+.vs/**
+!.vs/launch.vs.json
+
+# ext
+ext/**
+
+# build
+build/**
+out/**
